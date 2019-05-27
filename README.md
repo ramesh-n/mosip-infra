@@ -1,2 +1,0 @@
-# mosip-infra
-MOSIP Infrastructure
