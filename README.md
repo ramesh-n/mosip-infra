@@ -11,4 +11,7 @@ MOSIP Infra is central location for infrastructure code and suggested infrastruc
 ## Infrastructure as code
 This code base and related documentation is for community members tinkering with setup, operations and scaling of the system. It relies heavily on Docker and Kubernetes.
 
-TODO: link in the getting started guide here.
+To bring up a simple Azure deployment, follow these [instructions](https://github.com/mosip-open/mosip-prereg-client/blob/master/Getting-started-ui.md).
+
+## Azure cloud dependence
+This code currently runs on Microsoft Azure Cloud. Efforts are on to bring the infrastructure up on simple virtual machine and file systems. Stay tuned 
